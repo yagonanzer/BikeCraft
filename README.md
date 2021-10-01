@@ -1,6 +1,6 @@
 # Untitled
 
-![og-image.png](Untitled%20cfe55bf65a72400aa692a7f02ca25b4e/og-image.png)
+![og-image.png](./git/4.png)
 
 # BikCraft - Projeto de Web Design Origamid
 
@@ -20,8 +20,8 @@ Foram utilizados conceitos de UI/UX para criação das telas. Foi colocados em p
 
 ## ⌨️ Demonstração
 
-![Capture.PNG](Untitled%20cfe55bf65a72400aa692a7f02ca25b4e/Capture.png)
+![Capture.PNG](./git/1.png)
 
-![Capture.PNG](Untitled%20cfe55bf65a72400aa692a7f02ca25b4e/Capture%201.png)
+![Capture.PNG](./git/2.png)
 
-![Capture.PNG](Untitled%20cfe55bf65a72400aa692a7f02ca25b4e/Capture%202.png)
+![Capture.PNG](./git/3.png)
