@@ -20,8 +20,8 @@ Foram utilizados conceitos de UI/UX para criação das telas. Foi colocados em p
 
 ## ⌨️ Demonstração
 
-![1.png](./git/1.png)
+![og-image.png](./git/1.png)
 
-![2.png](./git/2.png)
+![og-image.png](./git/2.png)
 
-![3.png](./git/3.png)
+![og-image.png](./git/3.png)
