@@ -10,7 +10,7 @@ Foi feito no curso de Web Design da plataforma [Origamid](http://www.origamid.co
 
 ## 🖥 Tecnologias
 
-Foram utilizados conceitos de UI/UX para criação das telas. Foi colocados em prática conceitos de desenvolvimento com HTML5 semântico e CSS3
+Foram utilizados conceitos de UI/UX para criação das telas. Foram colocados em prática conceitos de desenvolvimento com HTML5 semântico e CSS3
 
 - HTML5
 - CSS3
